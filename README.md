@@ -2,10 +2,6 @@
 This is my capstone design project to use Machine Learning and a Neural Network that uses image classification to predict between popular and unpopular Reddit Memes from 2014-2018.
 README.txt
 
-David Arnold 
-orion99da@gmail.com
-Data Science Winter 2021 Cohort
-
 Using Machine Learning to Determine What Makes a Reddit Meme Popular
 
 This project uses a collection of memes from Reddit during 2014-2018 that will use machine learning algorithms and image classification to predict what is a popular vs un-popular meme on Reddit.
